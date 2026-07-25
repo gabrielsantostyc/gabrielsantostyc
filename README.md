@@ -1,4 +1,4 @@
-<img src="https://img.magnific.com/premium-vector/black-background-lines-vector-image-abstract-wallpaper-backdrop-decoration_1110513-3558.jpg?semt=ais_hybrid&w=740&q=80">
+<img src="https://chatgpt.com/s/m_6a64225abecc81918c04da67615381f6">
 
 ## Olá 👋
 
