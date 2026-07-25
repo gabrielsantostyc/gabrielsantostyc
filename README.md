@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/003/703/565/small/futuristic-digital-surface-space-blank-gray-black-color-background-with-white-grid-space-line-color-surfaces-vector.jpg">
+  <img src="<img width="732" height="184" alt="Captura de tela 2026-07-24 230533" src="https://github.com/user-attachments/assets/10019eb4-e744-4e3d-8c28-47ae48faaa80" />
+">
 </p>
 ## Hi there 👋
 
