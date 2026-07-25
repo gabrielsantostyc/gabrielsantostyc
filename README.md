@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!](https://static.vecteezy.com/system/resources/thumbnails/003/703/565/small/futuristic-digital-surface-space-blank-gray-black-color-background-with-white-grid-space-line-color-surfaces-vector.jpg)🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 ## Hi there 👋
 
