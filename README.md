@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="<img width="732" height="184" alt="Captura de tela 2026-07-24 230533" src="https://github.com/user-attachments/assets/10019eb4-e744-4e3d-8c28-47ae48faaa80" />
+  <img src="https://img.magnific.com/premium-vector/black-background-lines-vector-image-abstract-wallpaper-backdrop-decoration_1110513-3558.jpg?semt=ais_hybrid&w=740&q=80" height="20px"/>
 ">
 </p>
 ## Hi there 👋
