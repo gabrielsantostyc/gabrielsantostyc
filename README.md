@@ -1,8 +1,7 @@
-<img src="[[https://chatgpt.com/s/m_6a64225abecc81918c04da67615381f6](https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNmE2NDIyNWFiZWNjODE5MThjMDRkYTY3NjE1MzgxZjY6ZmlsZV8wMDAwMDAwMGQwMWM4MjBlOTM1NTMzNWU0YjE1NWIxOCIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwidHMiOiIyMDY1OSIsInAiOiJweWkiLCJjaWQiOiIxIiwic2lnIjoiYTI4Y2QzMTM4MTc1ZWRlNWQ3YzkyMzNiN2Q5NjYxMzljNjdiMGExODRjZDJlNzVkM2MxODQyMTIyMDVjMjU3MCIsInYiOiIwIiwiY3MiOm51bGwsImNkbiI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9)](https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNmE2NDIyNWFiZWNjODE5MThjMDRkYTY3NjE1MzgxZjY6ZmlsZV8wMDAwMDAwMGQwMWM4MjBlOTM1NTMzNWU0YjE1NWIxOCIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwidHMiOiIyMDY1OSIsInAiOiJweWkiLCJjaWQiOiIxIiwic2lnIjoiYTI4Y2QzMTM4MTc1ZWRlNWQ3YzkyMzNiN2Q5NjYxMzljNjdiMGExODRjZDJlNzVkM2MxODQyMTIyMDVjMjU3MCIsInYiOiIwIiwiY3MiOm51bGwsImNkbiI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJjcCI6bnVsbCwibWEiOm51bGx9)">
 
 ## Olá 👋
 
-<!--
+
 **gabrielsantostyc/gabrielsantostyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
