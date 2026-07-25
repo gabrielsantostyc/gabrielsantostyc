@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://img.magnific.com/premium-vector/black-background-lines-vector-image-abstract-wallpaper-backdrop-decoration_1110513-3558.jpg?semt=ais_hybrid&w=740&q=80" height="20px"/>
+  <img src="https://img.magnific.com/premium-vector/black-background-lines-vector-image-abstract-wallpaper-backdrop-decoration_1110513-3558.jpg?semt=ais_hybrid&w=740&q=80"/>
 ">
 </p>
 ## Hi there 👋
