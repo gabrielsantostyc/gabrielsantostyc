@@ -11,7 +11,7 @@
 
 ### Desenvolvedor Full Stack
 
-Sou apaixonado por tecnologia e por criar aplicações modernas, escaláveis e com interfaces bem construídas.
+Gosto de criar novos sistema e sempre evoluir com cada novo projeto desenvolvido.
 
 Atualmente focado em desenvolvimento Web.
 
